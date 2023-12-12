@@ -1,8 +1,8 @@
 # ebola_conflict
 
 ## analysis 
-### sccs.R - inputs the raw data (from the "data" folder, converts to the fit data and fits the model 
-### proximity.R - calculates the proximity of conflicts to nearby cities 
+sccs.R - inputs the raw data (from the "data" folder, converts to the fit data and fits the model 
+proximity.R - calculates the proximity of conflicts to nearby cities 
 
 ## data 
 Two files, one for COD and one for GUI, includes all raw conflict and ebola data, time, number of events/exposures and results 
